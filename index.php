@@ -84,7 +84,7 @@ while (true) {
 		</div>
 
 		<footer>
-			<a href="http://www.krebas.com/bookish-parakeet/">Bookish Parakeet</a> shows an excerpt of a random article from <a href="https://www.wikipedia.org/">Wikipedia</a> | Idea comes from this <a href="https://twitter.com/OldManKris/status/673184195485790208">Tweet</a> | Fork the code on <a href="https://github.com/krewast/bookish-parakeet">Github</a> | <a href="https://www.flickr.com/photos/42244964@N03/8614125728/">Photo</a> from Flickr user <a href="https://www.flickr.com/photos/42244964@N03/">Frank Vassen</a> released under <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a> | <a href="http://www.krewast.com/imprint/">Imprint</a>
+			<a href="http://bookish-parakeet.krewast.com/">Bookish Parakeet</a> shows an excerpt of a random article from <a href="https://www.wikipedia.org/">Wikipedia</a> | Idea comes from this <a href="https://twitter.com/OldManKris/status/673184195485790208">Tweet</a> | Fork the code on <a href="https://github.com/krewast/bookish-parakeet">Github</a> | <a href="https://www.flickr.com/photos/42244964@N03/8614125728/">Photo</a> from Flickr user <a href="https://www.flickr.com/photos/42244964@N03/">Frank Vassen</a> released under <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a> | <a href="http://www.krewast.com/imprint/">Imprint</a>
 		</footer>
 	</body>
 </html>
