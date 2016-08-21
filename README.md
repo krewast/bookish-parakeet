@@ -1,4 +1,4 @@
-#[Bookish Parakeet](http://www.krebas.com/bookish-parakeet/)
+#[Bookish Parakeet](http://bookish-parakeet.krewast.com/)
 
 Shows an excerpt of a random article from Wikipedia.
 
